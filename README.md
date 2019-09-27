@@ -17,7 +17,7 @@ This proposal was created to track the "static" (i.e., of the constructor) aspec
 
 Draft specification text is published at [https://tc39.github.io/proposal-static-class-features/].
 
-This proposal is stable and with a variaty of implementations shipped.
+This proposal is stable and with a variety of implementations shipped.
 
 |Implementation|Status|
 |---|---|
